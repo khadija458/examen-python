@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nom": "khadija",
+    "tel": "Nzc2NTQzMjQw",
+    "actif": true,
+    "cotisations": [
+      {
+        "montant": 1000,
+        "date": "11-02-2025",
+        "cycle": 2
+      }
+    ],
+    "retards": 0,
+    "dernier_gain": null,
+    "gains_annuels": []
+  }
+]
